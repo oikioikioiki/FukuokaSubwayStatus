@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-02-25 05:31:37",
-  "update_time": "2026-02-25T05:31:37.446899",
+  "timestamp": "2026-02-25 05:32:40",
+  "update_time": "2026-02-25T05:32:40.065595",
   "kuko_line": {
     "total_trains": 5,
     "trains": [
@@ -12,9 +12,9 @@
         "direction": "左行",
         "nearest_station": "H06",
         "stop_order": 2,
-        "true_position": 1.5,
-        "real_stop_order": 1.5,
-        "last_seen": "05:31",
+        "true_position": 2,
+        "real_stop_order": 2,
+        "last_seen": "05:32",
         "next_station": "H05",
         "is_early_departure": false,
         "reversal_adopted_train_id": null
@@ -29,7 +29,7 @@
         "stop_order": 9,
         "true_position": 8.5,
         "real_stop_order": 8.5,
-        "last_seen": "05:31",
+        "last_seen": "05:32",
         "next_station": "K03",
         "is_early_departure": false,
         "reversal_adopted_train_id": null
@@ -44,7 +44,7 @@
         "stop_order": 1,
         "true_position": 1,
         "real_stop_order": 1,
-        "last_seen": "05:31",
+        "last_seen": "05:32",
         "next_station": "K02",
         "is_early_departure": false,
         "reversal_adopted_train_id": null
@@ -57,9 +57,9 @@
         "direction": "左行",
         "nearest_station": "K10",
         "stop_order": 2,
-        "true_position": 1.5,
-        "real_stop_order": 1.5,
-        "last_seen": "05:31",
+        "true_position": 2,
+        "real_stop_order": 2,
+        "last_seen": "05:32",
         "next_station": "H01/K09",
         "is_early_departure": false,
         "reversal_adopted_train_id": null
@@ -74,7 +74,7 @@
         "stop_order": 1,
         "true_position": 1,
         "real_stop_order": 1,
-        "last_seen": "05:31",
+        "last_seen": "05:32",
         "next_station": "K12",
         "is_early_departure": false,
         "reversal_adopted_train_id": null
@@ -90,12 +90,12 @@
         "real_train_id": null,
         "original_train_id": null,
         "direction": "右行",
-        "nearest_station": "N11",
-        "stop_order": 11,
-        "true_position": 11,
-        "real_stop_order": 11,
-        "last_seen": "05:31",
-        "next_station": "N12",
+        "nearest_station": "N12",
+        "stop_order": 12,
+        "true_position": 11.5,
+        "real_stop_order": 11.5,
+        "last_seen": "05:32",
+        "next_station": "N13",
         "is_early_departure": false
       },
       {
@@ -104,12 +104,12 @@
         "real_train_id": null,
         "original_train_id": null,
         "direction": "右行",
-        "nearest_station": "N02",
-        "stop_order": 2,
-        "true_position": 1.5,
-        "real_stop_order": 1.5,
-        "last_seen": "05:31",
-        "next_station": "N03",
+        "nearest_station": "N03",
+        "stop_order": 3,
+        "true_position": 2.5,
+        "real_stop_order": 2.5,
+        "last_seen": "05:32",
+        "next_station": "N04",
         "is_early_departure": false
       },
       {
@@ -118,12 +118,12 @@
         "real_train_id": null,
         "original_train_id": null,
         "direction": "左行",
-        "nearest_station": "N17",
-        "stop_order": 2,
-        "true_position": 1.5,
-        "real_stop_order": 1.5,
-        "last_seen": "05:31",
-        "next_station": "N16",
+        "nearest_station": "N16",
+        "stop_order": 3,
+        "true_position": 2.5,
+        "real_stop_order": 2.5,
+        "last_seen": "05:32",
+        "next_station": "N15",
         "is_early_departure": false
       }
     ]
