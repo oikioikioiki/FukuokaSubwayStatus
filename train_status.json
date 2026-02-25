@@ -1,39 +1,25 @@
 {
-  "timestamp": "2026-02-26 00:30:18",
-  "update_time": "2026-02-26T00:30:18.284292",
+  "timestamp": "2026-02-26 00:31:20",
+  "update_time": "2026-02-26T00:31:20.662043",
   "kuko_line": {
     "total_trains": 0,
     "trains": []
   },
   "nanakuma_line": {
-    "total_trains": 2,
+    "total_trains": 1,
     "trains": [
       {
         "detection_point": 1,
-        "train_id": 967,
-        "real_train_id": null,
-        "original_train_id": null,
-        "direction": "左行",
-        "nearest_station": "N01",
-        "stop_order": 18,
-        "true_position": 17.5,
-        "real_stop_order": 17.5,
-        "last_seen": "00:30",
-        "next_station": null,
-        "is_early_departure": false
-      },
-      {
-        "detection_point": 2,
         "train_id": 968,
         "real_train_id": null,
         "original_train_id": null,
         "direction": "左行",
-        "nearest_station": "N09",
-        "stop_order": 10,
-        "true_position": 10,
-        "real_stop_order": 10,
-        "last_seen": "00:30",
-        "next_station": "N08",
+        "nearest_station": "N08",
+        "stop_order": 11,
+        "true_position": 11,
+        "real_stop_order": 11,
+        "last_seen": "00:31",
+        "next_station": "N07",
         "is_early_departure": false
       }
     ]
