@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-02-26 05:29:22",
-  "update_time": "2026-02-26T05:29:22.485480",
+  "timestamp": "2026-02-26 05:30:25",
+  "update_time": "2026-02-26T05:30:25.093692",
   "kuko_line": {
     "total_trains": 4,
     "trains": [
@@ -14,7 +14,7 @@
         "stop_order": 1,
         "true_position": 1,
         "real_stop_order": 1,
-        "last_seen": "05:29",
+        "last_seen": "05:30",
         "next_station": "H06",
         "is_early_departure": false,
         "reversal_adopted_train_id": null
@@ -29,7 +29,7 @@
         "stop_order": 8,
         "true_position": 8,
         "real_stop_order": 8,
-        "last_seen": "05:29",
+        "last_seen": "05:30",
         "next_station": "K02",
         "is_early_departure": false,
         "reversal_adopted_train_id": null
@@ -44,7 +44,7 @@
         "stop_order": 1,
         "true_position": 1,
         "real_stop_order": 1,
-        "last_seen": "05:29",
+        "last_seen": "05:30",
         "next_station": "K10",
         "is_early_departure": false,
         "reversal_adopted_train_id": null
@@ -59,7 +59,7 @@
         "stop_order": 1,
         "true_position": 1,
         "real_stop_order": 1,
-        "last_seen": "05:29",
+        "last_seen": "05:30",
         "next_station": "K12",
         "is_early_departure": false,
         "reversal_adopted_train_id": null
@@ -77,9 +77,9 @@
         "direction": "右行",
         "nearest_station": "N10",
         "stop_order": 10,
-        "true_position": 9.5,
-        "real_stop_order": 9.5,
-        "last_seen": "05:29",
+        "true_position": 10,
+        "real_stop_order": 10,
+        "last_seen": "05:30",
         "next_station": "N11",
         "is_early_departure": false
       },
@@ -93,7 +93,7 @@
         "stop_order": 1,
         "true_position": 1,
         "real_stop_order": 1,
-        "last_seen": "05:29",
+        "last_seen": "05:30",
         "next_station": "N02",
         "is_early_departure": false
       },
@@ -107,7 +107,7 @@
         "stop_order": 1,
         "true_position": 1,
         "real_stop_order": 1,
-        "last_seen": "05:29",
+        "last_seen": "05:30",
         "next_station": "N17",
         "is_early_departure": false
       }
