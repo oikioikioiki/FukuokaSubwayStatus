@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-02-26 00:32:22",
-  "update_time": "2026-02-26T00:32:22.893320",
+  "timestamp": "2026-02-26 00:33:25",
+  "update_time": "2026-02-26T00:33:25.099589",
   "kuko_line": {
     "total_trains": 0,
     "trains": []
@@ -16,9 +16,9 @@
         "direction": "左行",
         "nearest_station": "N07",
         "stop_order": 12,
-        "true_position": 11.5,
-        "real_stop_order": 11.5,
-        "last_seen": "00:32",
+        "true_position": 12,
+        "real_stop_order": 12,
+        "last_seen": "00:33",
         "next_station": "N06",
         "is_early_departure": false
       }
