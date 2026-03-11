@@ -1,12 +1,29 @@
 {
-  "timestamp": "2026-03-12 04:50:10",
-  "update_time": "2026-03-12T04:50:10.149612",
+  "timestamp": "2026-03-12 04:54:25",
+  "update_time": "2026-03-12T04:54:25.077222",
   "kuko_line": {
     "total_trains": 0,
     "trains": []
   },
   "nanakuma_line": {
-    "total_trains": 0,
-    "trains": []
+    "total_trains": 1,
+    "trains": [
+      {
+        "detection_point": 1,
+        "train_id": 795,
+        "real_train_id": null,
+        "original_train_id": null,
+        "direction": "左行",
+        "nearest_station": "K11/N18",
+        "stop_order": 1,
+        "true_position": 1,
+        "real_stop_order": 1,
+        "last_seen": "04:53",
+        "next_station": "N17",
+        "is_early_departure": false,
+        "is_delayed": false,
+        "delay_minutes": null
+      }
+    ]
   }
 }
