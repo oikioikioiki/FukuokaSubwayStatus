@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-03-24 04:51:49",
-  "update_time": "2026-03-24T04:51:49.937458",
+  "timestamp": "2026-03-24 04:57:45",
+  "update_time": "2026-03-24T04:57:45.255459",
   "kuko_line": {
     "total_trains": 0,
     "trains": []
@@ -18,7 +18,7 @@
         "stop_order": 1,
         "true_position": 1,
         "real_stop_order": 1,
-        "last_seen": "04:51",
+        "last_seen": "04:57",
         "next_station": "N17",
         "is_early_departure": false,
         "is_delayed": false,
