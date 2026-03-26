@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-03-27 00:56:28",
-  "update_time": "2026-03-27T00:56:28.738448",
+  "timestamp": "2026-03-27 00:58:47",
+  "update_time": "2026-03-27T00:58:47.037849",
   "kuko_line": {
     "total_trains": 2,
     "trains": [
@@ -14,7 +14,7 @@
         "stop_order": 1,
         "true_position": 1,
         "real_stop_order": 1,
-        "last_seen": "00:55",
+        "last_seen": "00:58",
         "next_station": "H06",
         "is_early_departure": false,
         "is_delayed": false,
@@ -31,7 +31,7 @@
         "stop_order": 1,
         "true_position": 1,
         "real_stop_order": 1,
-        "last_seen": "00:55",
+        "last_seen": "00:58",
         "next_station": "K02",
         "is_early_departure": false,
         "is_delayed": false,
