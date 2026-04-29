@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-29 04:59:43",
-  "update_time": "2026-04-29T04:59:43.489109",
+  "timestamp": "2026-04-30 00:38:32",
+  "update_time": "2026-04-30T00:38:32.714581",
   "kuko_line": {
     "total_trains": 0,
     "trains": []
@@ -10,16 +10,16 @@
     "trains": [
       {
         "detection_point": 1,
-        "train_id": 1662,
+        "train_id": 1809,
         "real_train_id": null,
         "original_train_id": null,
         "direction": "左行",
-        "nearest_station": "K11/N18",
-        "stop_order": 1,
-        "true_position": 1,
-        "real_stop_order": 1,
-        "last_seen": "04:59",
-        "next_station": "N17",
+        "nearest_station": "N04",
+        "stop_order": 15,
+        "true_position": 14.5,
+        "real_stop_order": 14.5,
+        "last_seen": "00:38",
+        "next_station": "N03",
         "is_early_departure": false,
         "is_delayed": false,
         "delay_minutes": null,
