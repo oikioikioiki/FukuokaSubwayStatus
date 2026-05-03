@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-05-04 00:38:40",
-  "update_time": "2026-05-04T00:38:40.726306",
+  "timestamp": "2026-05-04 00:42:54",
+  "update_time": "2026-05-04T00:42:54.463397",
   "kuko_line": {
     "total_trains": 0,
     "trains": []
@@ -14,12 +14,12 @@
         "real_train_id": null,
         "original_train_id": null,
         "direction": "左行",
-        "nearest_station": "N04",
-        "stop_order": 15,
-        "true_position": 14.5,
-        "real_stop_order": 14.5,
-        "last_seen": "00:38",
-        "next_station": "N03",
+        "nearest_station": "N01",
+        "stop_order": 18,
+        "true_position": 17.5,
+        "real_stop_order": 17.5,
+        "last_seen": "00:42",
+        "next_station": null,
         "is_early_departure": false,
         "is_delayed": false,
         "delay_minutes": null,
