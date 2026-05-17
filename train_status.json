@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-05-17 04:55:39",
-  "update_time": "2026-05-17T04:55:39.477482",
+  "timestamp": "2026-05-18 00:32:13",
+  "update_time": "2026-05-18T00:32:13.953006",
   "kuko_line": {
     "total_trains": 0,
     "trains": [],
@@ -11,16 +11,16 @@
     "trains": [
       {
         "detection_point": 1,
-        "train_id": 1662,
+        "train_id": 1809,
         "real_train_id": null,
         "original_train_id": null,
         "direction": "左行",
-        "nearest_station": "K11/N18",
-        "stop_order": 1,
-        "true_position": 1,
-        "real_stop_order": 1,
-        "last_seen": "04:55",
-        "next_station": "N17",
+        "nearest_station": "N08",
+        "stop_order": 11,
+        "true_position": 10.5,
+        "real_stop_order": 10.5,
+        "last_seen": "00:31",
+        "next_station": "N07",
         "is_early_departure": false,
         "is_delayed": false,
         "delay_minutes": null,
@@ -29,14 +29,14 @@
     ],
     "train_status": [
       {
-        "x": 1822,
+        "x": 777,
         "y": 635,
         "width": 48,
         "height": 64,
-        "position": "K11/N18",
+        "position": "N08",
         "direction": "左行",
         "name": "橋本",
-        "score": 0.9988526105880737,
+        "score": 0.9969674348831177,
         "line": "N"
       }
     ]
